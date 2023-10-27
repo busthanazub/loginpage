@@ -1,0 +1,39 @@
+.login{
+    background-color: rgb(156, 70, 60);
+    padding: 2%;
+    margin: 4%;
+    color: rgb(240, 209, 206);
+    font-family: cursive;
+}
+
+.page{
+    background-color: rgb(239, 180, 173);
+    color: rgb(79, 39, 10);
+    margin-left: 22%;
+    margin-right: 22%;
+    padding-top: 2%;
+    
+}
+
+input{
+    background-color: rgb(238, 237, 237);
+    box-shadow: 3cm;
+    border-radius: 5px;
+    border: 1px solid silver;
+    width: 70%;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 2%;
+}
+
+button{
+    background-color: rgb(156, 70, 60);
+    box-shadow: 3cm;
+    border-radius: 5px;
+    border: 1px solid silver;
+    width: 30%;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 2%;
+    color: wh;
+}
